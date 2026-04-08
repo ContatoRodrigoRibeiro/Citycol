@@ -1,0 +1,434 @@
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2025-02-10 12:30:15
+NOTICE: Do NOT post to public sites or forums 
+PACKAGE CREATION START
+********************************************************************************
+********************************************************************************
+VERSION:	4.5.20.1
+WORDPRESS:	6.7.1
+PHP INFO:	8.3.12 | SAPI: cgi-fcgi
+SERVER:		Microsoft-IIS/10.0 
+ARCHITECTURE:	64-bit 
+CLIENT KICKOFF: off 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 256M (256M default) 
+RUN TYPE:	Manual
+MEMORY STACK:	16MB
+ARCHIVE ENGINE: ZipArchive: multi-thread
+PACKAGE COMPONENTS:
+	Database,
+	Core,
+	Plugins,
+	Themes,
+	Media,
+	Other
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP + CHUNKING (query size limit - 131072 )
+
+TABLES: total: 43 | filtered:0 | create:43
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] cityusers NUM ROWS: 5
+REWIND DATABASE ITERATOR
+INSERT ROWS TABLE[INDEX:0] cityusers NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:1] cityusermeta NUM ROWS: 122
+INSERT ROWS TABLE[INDEX:2] cityactionscheduler_actions NUM ROWS: 78
+INSERT ROWS TABLE[INDEX:3] cityactionscheduler_claims NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:4] cityactionscheduler_groups NUM ROWS: 5
+INSERT ROWS TABLE[INDEX:5] cityactionscheduler_logs NUM ROWS: 227
+INSERT ROWS TABLE[INDEX:6] citycommentmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:7] citycomments NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:8] cityduplicator_backups NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:9] cityduplicator_entities NUM ROWS: 9
+INSERT ROWS TABLE[INDEX:10] cityeasywpsmtp_debug_events NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:11] cityeasywpsmtp_tasks_meta NUM ROWS: 1
+INSERT ROWS TABLE[INDEX:12] citye_events NUM ROWS: 2
+INSERT ROWS TABLE[INDEX:13] citye_submissions NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:14] citye_submissions_actions_log NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:15] citye_submissions_values NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:16] cityfacetwp_index NUM ROWS: 40
+INSERT ROWS TABLE[INDEX:17] citylinks NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:18] citylitespeed_avatar NUM ROWS: 33
+INSERT ROWS TABLE[INDEX:19] citylitespeed_img_optming NUM ROWS: 662
+INSERT ROWS TABLE[INDEX:20] citylitespeed_url NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:21] citylitespeed_url_file NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:22] cityoptions NUM ROWS: 637
+INSERT ROWS TABLE[INDEX:23] citypostmeta NUM ROWS: 4757
+INSERT ROWS TABLE[INDEX:24] cityposts NUM ROWS: 1217
+INSERT ROWS TABLE[INDEX:25] citysearchwp_index NUM ROWS: 10856
+INSERT ROWS TABLE[INDEX:26] citysearchwp_log NUM ROWS: 7
+INSERT ROWS TABLE[INDEX:27] citysearchwp_status NUM ROWS: 71
+INSERT ROWS TABLE[INDEX:28] citysearchwp_tokens NUM ROWS: 3587
+INSERT ROWS TABLE[INDEX:29] citytermmeta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:30] cityterms NUM ROWS: 36
+INSERT ROWS TABLE[INDEX:31] cityterm_relationships NUM ROWS: 112
+INSERT ROWS TABLE[INDEX:32] cityterm_taxonomy NUM ROWS: 36
+INSERT ROWS TABLE[INDEX:33] citytrp_gettext_original_meta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:34] citytrp_gettext_original_strings NUM ROWS: 284
+INSERT ROWS TABLE[INDEX:35] citytrp_gettext_pt_br NUM ROWS: 284
+INSERT ROWS TABLE[INDEX:36] citywpcode_revisions NUM ROWS: 122
+INSERT ROWS TABLE[INDEX:37] citywpforms_logs NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:38] citywpforms_payments NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:39] citywpforms_payment_meta NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:40] citywpforms_tasks_meta NUM ROWS: 10
+INSERT ROWS TABLE[INDEX:41] citywpmailsmtp_debug_events NUM ROWS: 0
+INSERT ROWS TABLE[INDEX:42] citywpmailsmtp_tasks_meta NUM ROWS: 3
+SQL FILE SIZE CHECK OK, SIZE: 48129970
+SQL CREATED: 20250210_citycol_b6230443dba4228c9981_20250210122519_database.sql
+SQL FILE SIZE: 45.9MB
+SQL FILE TIME: 2025-02-10 12:30:34
+SQL RUNTIME: 18.649 sec.
+MEMORY STACK: 16MB
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-100x100.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-140x140.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-150x150.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-300x179.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-350x333.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-400x269.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-450x333.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil-500x333.png
+WARNING: Unable to zip file: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP/wp-content/uploads/2025/02/Quando-falamos-de-moda-praia-ha-um-modelo-que-nunca-sai-de-cena-e-continua-sendo-um-dos-favoritos-de-mulheres-ao-redor-do-mundo-o-biquini-cortininha.-Simples-confortavel-e-extremamente-versatil.png
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+
+********************************************************************************
+ARCHIVE Mode:ZipArchive Multi-Threaded
+********************************************************************************
+ARCHIVE DIR:  C:/Inetpub/vhosts/umr.com.br/citycol.com.br/WP
+ARCHIVE FILE: 20250210_citycol_b6230443dba4228c9981_20250210122519_archive.zip
+COMPRESSION: *ON*
+FILTERS: *OFF*
+DIRS:  not set
+EXTS:  not set
+FILES:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	807.43MB
+STATS:	Dirs 1,818 | Files 13,618 | Total 15,436
+COMPRESSED SIZE: 672.81MB
+ARCHIVE RUNTIME: 1739191192.730 sec.
+MEMORY STACK: 18MB
+
+********************************************************************************
+STORAGE:
+********************************************************************************
+DEFAULT LOCAL: Default, C:/Inetpub/vhosts/umr.com.br/citycol.com.br/wp-content/backups-dup-pro
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 45.9MB
+INSTALLER FILE: 128.66KB
+ARCHIVE FILE: 679.51MB 
+EXPECTED FILE/DIRECTORY COUNT: 15,436
+ACTUAL FILE/DIRECTORY COUNT: 15,426
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 663.707 sec.
+PEAK PHP MEMORY USED: 16MB
+DONE PROCESSING => 20250210_citycol 2025-02-10 12:41:19
+
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+** DEFAULT LOCAL [Name: Default] [ID: 3] **
+SUCCESS: Backup is in default location: C:/Inetpub/vhosts/umr.com.br/citycol.com.br/wp-content/backups-dup-pro
+-----------------------------------------
+STORAGE PROCESSING THREAD INITIATED
+STORAGE PROCESSING COMPLETED
+Attempting to purge old Backups at Default[ID: 3] type: Default Local
+Purge of old Backups at Default[ID: 3] storage completed. Num packages deleted 0
+
+********************************************************************************
+********************************************************************************
+DUPLICATOR PRO PACKAGE CREATION OR MANUAL STORAGE TRANSFER END: 2025-02-10 12:41:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+********************************************************************************
+
