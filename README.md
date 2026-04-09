@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Made_in-Rio_🇧🇷-FF2D55?style=for-the-badge&logo=flag-for-brazil&logoColor=white" alt="Rio">
   <br><br>
   
-  <h1>🌌 DEELINE DESIGN</h1>
+  <h1>🌌Rodrigo Ribeiro</h1>
   <h2>Design que respira. Experiência que impacta.</h2>
   
   <p><strong>Site pessoal • Portfólio • Identidade visual premium</strong></p>
